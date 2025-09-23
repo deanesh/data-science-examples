@@ -10,6 +10,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "langchain>=0.3.27",
     "langchain-community>=0.3.29",
+    "learn>=1.0.0",
     "matplotlib>=3.10.6",
     "nbformat>=5.10.4",
     "numpy>=2.3.2",
@@ -17,6 +18,8 @@ dependencies = [
     "plotly>=6.3.0",
     "pydantic>=2.11.7",
     "requests>=2.32.5",
+    "sci-kit>=0.1.0",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "streamlit>=1.49.1",
 ]
